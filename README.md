@@ -1,5 +1,7 @@
 ## Why I am gonna learn all this?
 So I have been through Android app development, tried my hands in the field of web development but after having my hands in them I have realized that what these all development stuff is great it gives the sense of accomplishment but when I've looked inside what I have seen is that these technologies are shells that beautifully covers the arc reactor that powers these technologies. 
+
+
 The arc reactor for the computer science is the great underlying study of algorithms and data structures 
  ou can use the [editor on GitHub](https://github.com/mehuled/my-experiments-with-algorithms/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
