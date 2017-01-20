@@ -9,11 +9,24 @@ The arc reactor for the computer science is the great underlying study of algori
 ## Day One
 _1. Quick find._
 
+Worst case time : MN
+
 _2. Quick union._
+
+Worst case time : MN
 
 _3. Quick union with compressed path length._
 
- 
+Worst case time : N + MlogN
+
+_4. Weighted quick union
+
+Worst case time : N + MlogN
+
+_5. Weighted quick union with compressed path length_
+
+Worst case time : N + Mlog*N
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
