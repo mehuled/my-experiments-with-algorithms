@@ -7,9 +7,9 @@ So I have been through Android app development, tried my hands in the field of w
 The arc reactor for the computer science is the great underlying study of algorithms and data structures that has been developed after years of our learning and understanding of the data and our needs.
 
 ## Day One
-# 1. Quick find
-# 2. Quick union
-# 3. Quick union with compressed path length.
+_1. Quick find._
+_2. Quick union._
+_3. Quick union with compressed path length._
 
  
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
