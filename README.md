@@ -8,7 +8,9 @@ The arc reactor for the computer science is the great underlying study of algori
 
 ## Day One
 _1. Quick find._
+
 _2. Quick union._
+
 _3. Quick union with compressed path length._
 
  
